@@ -1,0 +1,5 @@
+Project Cedar — Internal Release Notes (Fictional Evaluation Fixture)
+
+Mira owns the CSV import validator for Project Cedar. The release target is 15 November 2026. Duplicate IDs are currently blocking the CSV import test. No project budget has been approved. The team will verify the CSV import validator once duplicate IDs have been resolved.
+
+There is no Kubernetes cluster name stated in these notes. Do not infer one from the name of the project.
