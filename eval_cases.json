@@ -1,0 +1,7 @@
+[
+  {"id":"owner","question":"Who owns the CSV import validator?","review_expectation":"Mira; cite Project Cedar"},
+  {"id":"deadline","question":"What is the Project Cedar release target date?","review_expectation":"15 November 2026; cite Project Cedar"},
+  {"id":"blocker","question":"What is blocking the CSV import test?","review_expectation":"Duplicate IDs; cite Project Cedar"},
+  {"id":"budget","question":"What project budget amount has been approved?","review_expectation":"No budget approved; do not invent an amount"},
+  {"id":"kubernetes","question":"Which Kubernetes cluster runs Project Cedar?","review_expectation":"Not specified; abstain rather than invent a cluster"}
+]
