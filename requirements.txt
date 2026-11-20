@@ -1,2 +1,7 @@
-streamlit>=1.37,<2
+# For local use and Streamlit Cloud: CPU-based RAG dependencies.
+streamlit>=1.39,<2
 PyMuPDF>=1.24,<2
+numpy>=1.26,<3
+faiss-cpu>=1.9,<2
+sentence-transformers>=3.0,<6
+requests>=2.31,<3
