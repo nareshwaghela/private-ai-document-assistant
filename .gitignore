@@ -5,7 +5,10 @@ __pycache__/
 .env
 .env.*
 .streamlit/secrets.toml
-models/*.gguf
+store/
+reports/*.json
+reports/*.csv
+models/
 *.gguf
 uploads/
 *.pem
