@@ -1,0 +1,14 @@
+{
+  "$schema": "https://codesandbox.io/schemas/tasks.json",
+  "tasks": {
+    "start-streamlit": {
+      "name": "Run Streamlit PDF Assistant",
+      "command": "python -m streamlit run app.py --server.address 0.0.0.0 --server.port 8501 --server.headless true",
+      "runAtStart": true,
+      "preview": {
+        "port": 8501,
+        "prLink": "direct"
+      }
+    }
+  }
+}
